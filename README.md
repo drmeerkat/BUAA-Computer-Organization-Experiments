@@ -8,7 +8,7 @@ P6 is a 5-stage pipline processor supporting up to **50** different mips instruc
 - High scalability (You may add your own instruction or new mips insturction support based on current design quickly)
   - Worth to mention that our test is in the form of online test requiring us to add support to 3 teacher assigned new mips instructions in less than 2 hours.
 ### 0x02 File Structure
-In every directory, 'code.txt' contains the Verilog code for that experiment. And for more specific infomation/lab instructions, please refer to '.docx' or '.pdf' in the corresponding directory.
+In every directory, `code.txt` contains the Verilog code for that experiment. And for more specific infomation/lab instructions, please refer to `.docx` or `.pdf` in the corresponding directory.
 - P3
   - Simplified version of single cycle mips cpu
 - P4
