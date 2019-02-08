@@ -12,13 +12,13 @@ In every directory, 'code.txt' contains the Verilog code for that experiment. An
 - P3
   - Simplified version of single cycle mips cpu
 - P4
-  - Support more instructions based on P3.
+  - Supported more instructions based on P3.
 - P5
   - Simplified version of 5-stage pipline processor.
   - Designed basic data paths and forward mechanism.
 - P6 (Final Version)
-  - Add support to more than 50 MIPS instructions.
-  - Support mult/div calculation and more advanced forward mechanism.
+  - Added support to more than 50 MIPS instructions.
+  - Supported mult/div calculation and more advanced forward mechanism.
  
 ### 0x03 Some thoughts
 - Start earlier !
